@@ -7,3 +7,14 @@ h1 {
     height: 300px;
     width: auto;
 }
+
+
+#not_reg {
+  color: red;
+  margin-left: 5px;
+}
+
+#reg {
+  color: green;
+  margin-left: 5px;
+}
